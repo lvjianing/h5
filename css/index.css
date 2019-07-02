@@ -1,0 +1,460 @@
+/* page1 style */
+.page1{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page1 img{
+    position: absolute;
+}
+.page1 .img01{
+    width: 2.25rem;
+	left: .75rem;
+	top: .5rem;
+}
+.page1 .img1{
+    width: .41rem;    
+    left: 2.918rem;
+    top: 2rem;
+}
+.page1 .img2{
+    width: .41rem;    
+    left: 2.086rem;
+    top: 2rem;
+}
+.page1 .img3{
+    width: .41rem;    
+    left: 1.254rem;
+    top: 2rem;
+}
+.page1 .img4{
+    width: .41rem;    
+    left: .422rem;
+    top: 2rem;
+}
+.page1 .img0{
+    width: .7rem;
+    left: 2.78rem;
+    top: 5.4rem;
+}
+
+/* page2 style */
+.page2{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page2 img{
+    position: absolute;
+}
+.page2 .img02{
+    width: 2.3rem;
+	left: .05rem;
+	bottom: .01rem;
+}
+.page2 .img1{
+    width: .41rem;
+    left: 3rem;
+    top: .9rem;
+}
+.page2 .img2{
+    width: .44rem;
+    left: 2.2rem;
+    top: .5rem;
+}
+.page2 .img3{
+    width: .7rem;
+    left: .35rem;
+    top: .4rem;
+}
+.page2 .img0{
+    width: .7rem;
+    left: 2.78rem;
+    top: 5.4rem;
+}
+.page2 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page3 style */
+.page3{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page3 img{
+    position: absolute;
+}
+.page3 .img03{
+    width: 3.5rem;
+    left: .7rem;
+    bottom: -.3rem;
+}
+.page3 .img1{
+    width: .44rem;
+    left: 3rem;
+    top: .5rem;
+}
+.page3 .img2{
+    width: .41rem;
+    left: 2.3rem;
+    top: .8rem;
+}
+.page3 .img3{
+    width: .44rem;
+    left: 1.5rem;
+    top: 1.1rem;
+}
+.page3 .img4{
+    width: .7rem;
+    left: .52rem;
+    top: 1.7rem;
+}
+.page3 .img0{
+    width: .7rem;
+    left: .27rem;
+    top: 5.4rem;
+}
+.page3 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+
+/* page4 style */
+.page4{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page4 img{
+    position: absolute;
+}
+.page4 .img0401{
+    width: 2.45rem;
+    left: .15rem;
+    bottom: .01rem;
+}
+.page4 .img0402{
+    width: 2.3rem;
+    left: 2.3rem;
+    bottom: .01rem;
+}
+.page4 .img1{
+    width: .6rem;
+    left: 1.19rem;
+    top: .4rem;
+}
+.page4 .img2{
+    width: .6rem;
+    left: 1.94rem;
+    top: .2rem;
+}
+.page4 .img0{
+    width: .7rem;
+    left: 1.525rem;
+    top: 5.4rem;
+}
+.page4 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page4 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page5 style */
+.page5{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page5 img{
+    position: absolute;
+}
+.page5 .img0501{
+    width: 2.2rem;
+    left: .1rem;
+    bottom: .01rem;
+}
+.page5 .img0502{
+    width: 2.5rem;
+    left: 1.85rem;
+    bottom: .01rem;
+}
+.page5 .img1{
+    width: .6rem;
+    left: 1.19rem;
+    top: .2rem;
+}
+.page5 .img2{
+    width: .6rem;
+    left: 1.94rem;
+    top: .58rem;
+}
+.page5 .img0{
+    width: .7rem;
+    left: 1.525rem;
+    top: 5.4rem;
+}
+.page5 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page5 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page6 style */
+.page6{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page6 img{
+    position: absolute;
+}
+.page6 .img0601{
+    width: 1.84rem;
+    left: -0.32rem;
+    bottom: .01rem;
+}
+.page6 .img0602{
+    width: 2.05rem;
+    left: 1.65rem;
+    bottom: .01rem;
+}
+.page6 .img1{
+    width: .6rem;
+    left: 1.19rem;
+    top: .4rem;
+}
+.page6 .img2{
+    width: .6rem;
+    left: 1.94rem;
+    top: .2rem;
+}
+.page6 .img0{
+    width: .7rem;
+    left: 1.525rem;
+    top: 5.4rem;
+}
+.page6 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page6 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page7 style */
+.page7{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page7 img{
+    position: absolute;
+}
+.page7 .img0701{
+    width: 2.18rem;
+    left: -.6rem;
+    bottom: .01rem;
+}
+.page7 .img0702{
+    width: 1.67rem;
+    left: 1.9rem;
+    bottom: .01rem;
+}
+.page7 .img1{
+    width: .6rem;
+    left: 1.19rem;
+    top: .4rem;
+}
+.page7 .img2{
+    width: .6rem;
+    left: 1.94rem;
+    top: .2rem;
+}
+.page7 .img0{
+    width: .7rem;
+    left: 1.525rem;
+    top: 5.4rem;
+}
+.page7 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page7 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page8 style */
+.page8{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page8 img{
+    position: absolute;
+}
+.page8 .img0801{
+    width: 2.55rem;
+    left: .1rem;
+    bottom: .01rem;
+}
+.page8 .img0802{
+    width: 2.26rem;
+    left: 1.7rem;
+    bottom: .01rem;
+}
+.page8 .img1{
+    width: .6rem;
+    left: 1.19rem;
+    top: .4rem;
+}
+.page8 .img2{
+    width: .6rem;
+    left: 1.94rem;
+    top: .2rem;
+}
+.page8 .img0{
+    width: .7rem;
+    left: 1.525rem;
+    top: 5.4rem;
+}
+.page8 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page8 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page9 style */
+.page9{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page9 img{
+    position: absolute;
+}
+.page9 .img0901{
+    width: 2.2rem;
+    left: -.58rem;
+    bottom: .01rem;
+}
+.page9 .img0902{
+    width: 2.3rem;
+    left: 1.5rem;
+    bottom: .01rem;
+}
+.page9 .img1{
+    width: .6rem;
+    left: 1.19rem;
+    top: .4rem;
+}
+.page9 .img2{
+    width: .6rem;
+    left: 1.94rem;
+    top: .2rem;
+}
+.page9 .img0{
+    width: .7rem;
+    left: 1.525rem;
+    top: 5.4rem;
+}
+.page9 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page9 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page10 style */
+.page10{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page10 img{
+    position: absolute;
+}
+.page10 .img1001{
+    width: 2.1rem;
+    left: .1rem;
+    bottom: .01rem;
+}
+.page10 .img1002{
+    width: 2.16rem;
+    left: 1.9rem;
+    bottom: .01rem;
+}
+.page10 .img1{
+    width: .7rem;
+    left: 1.19rem;
+    top: .4rem;
+}
+.page10 .img2{
+    width: .6rem;
+    left: 1.94rem;
+    top: .2rem;
+}
+.page10 .img0{
+    width: .7rem;
+    left: 1.525rem;
+    top: 5.4rem;
+}
+.page10 .imgyunl{
+    width: 1.3rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page10 .imgyunr{
+    width: 1.3rem;
+    right: 0rem;
+    top: 0rem;
+}
+
+/* page11 style */
+.page11{
+    position: relative;
+    background: url(../img/timg.jpg) no-repeat left top;
+    background-size: cover;
+}
+.page11 img{
+    position: absolute;
+}
+.page11 .img1{
+    width: 3.75rem;
+    height: 6.67rem;
+    left: 0rem;
+    top: 0rem;
+}
+.page11 .img2{
+    width: 2.5rem;
+    left: .625rem;
+    top: .15rem;
+}
